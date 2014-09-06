@@ -1,0 +1,165 @@
+[submodule "joukou-docker-base"]
+	path = joukou-docker-base
+	url = git@github.com:joukou/joukou-docker-base.git
+[submodule "joukou-docker-java"]
+	path = joukou-docker-java
+	url = git@github.com:joukou/joukou-docker-java.git
+[submodule "joukou-docker-riak"]
+	path = joukou-docker-riak
+	url = git@github.com:joukou/joukou-docker-riak.git
+[submodule "joukou-docker-nodejs"]
+	path = joukou-docker-nodejs
+	url = git@github.com:joukou/joukou-docker-nodejs.git
+[submodule "joukou-docker-basho-erlang"]
+	path = joukou-docker-basho-erlang
+	url = git@github.com:joukou/joukou-docker-basho-erlang.git
+[submodule "joukou-docker-nginx"]
+	path = joukou-docker-nginx
+	url = git@github.com:joukou/joukou-docker-nginx.git
+[submodule "joukou-docker-elasticsearch"]
+	path = joukou-docker-elasticsearch
+	url = git@github.com:joukou/joukou-docker-elasticsearch.git
+[submodule "joukou-docker-rabbitmq"]
+	path = joukou-docker-rabbitmq
+	url = git@github.com:joukou/joukou-docker-rabbitmq.git
+[submodule "joukou-deploy-vagrant"]
+	path = joukou-deploy-vagrant
+	url = git@github.com:joukou/joukou-deploy-vagrant.git
+[submodule "joukou-deploy-vpscity"]
+	path = joukou-deploy-vpscity
+	url = git@github.com:joukou/joukou-deploy-vpscity.git
+[submodule "joukou-control"]
+	path = joukou-control
+	url = git@github.com:joukou/joukou-control.git
+[submodule "joukou-gulp"]
+	path = joukou-gulp
+	url = git@github.com:joukou/joukou-gulp.git
+[submodule "joukou-api"]
+	path = joukou-api
+	url = git@github.com:joukou/joukou-api.git
+[submodule "joukou-docker-golang"]
+	path = joukou-docker-golang
+	url = git@github.com:joukou/joukou-docker-golang.git
+[submodule "joukou-conductor"]
+	path = joukou-conductor
+	url = git@github.com:joukou/joukou-conductor.git
+[submodule "joukou-docker-skydns"]
+	path = joukou-docker-skydns
+	url = https://github.com/joukou/joukou-docker-skydns.git
+[submodule "joukou-docker-skydns-announce"]
+	path = joukou-docker-skydns-announce
+	url = https://github.com/joukou/joukou-docker-skydns-announce.git
+[submodule "joukou-deploy-digitalocean"]
+	path = joukou-deploy-digitalocean
+	url = git@github.com:joukou/joukou-deploy-digitalocean.git
+[submodule "joukou-docker-influxdb"]
+	path = joukou-docker-influxdb
+	url = git@github.com:joukou/joukou-docker-influxdb.git
+[submodule "joukou-docker-mono"]
+	path = joukou-docker-mono
+	url = git@github.com:joukou/joukou-docker-mono.git
+[submodule "joukou-docker-flannel-build"]
+	path = joukou-docker-flannel-build
+	url = git@github.com:joukou/joukou-docker-flannel-build.git
+[submodule "joukou-fleet"]
+	path = joukou-fleet
+	url = git@github.com:joukou/joukou-fleet.git
+[submodule "joukou-circles-core-mono"]
+	path = joukou-circles-core-mono
+	url = git@github.com:joukou/joukou-circles-core-mono.git
+[submodule "joukou-docker-nginx-proxy"]
+	path = joukou-docker-nginx-proxy
+	url = git@github.com:joukou/joukou-docker-nginx-proxy.git
+[submodule "joukou-circles-csv"]
+	path = joukou-circles-csv
+	url = git@github.com:joukou/joukou-circles-csv.git
+[submodule "joukou-circles-ftp"]
+	path = joukou-circles-ftp
+	url = git@github.com:joukou/joukou-circles-ftp.git
+[submodule "joukou-circles-geospatial"]
+	path = joukou-circles-geospatial
+	url = git@github.com:joukou/joukou-circles-geospatial.git
+[submodule "joukou-circles-google-maps-engine"]
+	path = joukou-circles-google-maps-engine
+	url = git@github.com:joukou/joukou-circles-google-maps-engine.git
+[submodule "joukou-circles-core-nodejs"]
+	path = joukou-circles-core-nodejs
+	url = git@github.com:joukou/joukou-circles-core-nodejs.git
+[submodule "joukou-circles-jade-star"]
+	path = joukou-circles-jade-star
+	url = git@github.com:joukou/joukou-circles-jade-star.git
+[submodule "joukou-circles-mssql"]
+	path = joukou-circles-mssql
+	url = git@github.com:joukou/joukou-circles-mssql.git
+[submodule "joukou-circles-mysql"]
+	path = joukou-circles-mysql
+	url = git@github.com:joukou/joukou-circles-mysql.git
+[submodule "joukou-circles-pubsubhubbub"]
+	path = joukou-circles-pubsubhubbub
+	url = git@github.com:joukou/joukou-circles-pubsubhubbub.git
+[submodule "joukou-circles-restful"]
+	path = joukou-circles-restful
+	url = git@github.com:joukou/joukou-circles-restful.git
+[submodule "joukou-circles-salesforce"]
+	path = joukou-circles-salesforce
+	url = git@github.com:joukou/joukou-circles-salesforce.git
+[submodule "joukou-circles-search"]
+	path = joukou-circles-search
+	url = git@github.com:joukou/joukou-circles-search.git
+[submodule "joukou-circles-server-sent-events"]
+	path = joukou-circles-server-sent-events
+	url = git@github.com:joukou/joukou-circles-server-sent-events.git
+[submodule "joukou-circles-smartmailpro"]
+	path = joukou-circles-smartmailpro
+	url = git@github.com:joukou/joukou-circles-smartmailpro.git
+[submodule "joukou-circles-smtp"]
+	path = joukou-circles-smtp
+	url = git@github.com:joukou/joukou-circles-smtp.git
+[submodule "joukou-circles-snaphire"]
+	path = joukou-circles-snaphire
+	url = git@github.com:joukou/joukou-circles-snaphire.git
+[submodule "joukou-circles-soap"]
+	path = joukou-circles-soap
+	url = git@github.com:joukou/joukou-circles-soap.git
+[submodule "joukou-circles-websocket"]
+	path = joukou-circles-websocket
+	url = git@github.com:joukou/joukou-circles-websocket.git
+[submodule "joukou-circles-xml"]
+	path = joukou-circles-xml
+	url = git@github.com:joukou/joukou-circles-xml.git
+[submodule "joukou-flow"]
+	path = joukou-flow
+	url = git@github.com:joukou/joukou-flow.git
+[submodule "joukou-docker-cadvisor"]
+	path = joukou-docker-cadvisor
+	url = git@github.com:joukou/joukou-docker-cadvisor.git
+[submodule "joukou-docker-ghost"]
+	path = joukou-docker-ghost
+	url = git@github.com:joukou/joukou-docker-ghost.git
+[submodule "joukou-docker-grafana"]
+	path = joukou-docker-grafana
+	url = git@github.com:joukou/joukou-docker-grafana.git
+[submodule "joukou-docker-influga"]
+	path = joukou-docker-influga
+	url = git@github.com:joukou/joukou-docker-influga.git
+[submodule "joukou-docker-nodejs-service"]
+	path = joukou-docker-nodejs-service
+	url = git@github.com:joukou/joukou-docker-nodejs-service.git
+[submodule "joukou-docker-ubuntu"]
+	path = joukou-docker-ubuntu
+	url = git@github.com:joukou/joukou-docker-ubuntu.git
+[submodule "joukou-packer-templates"]
+	path = joukou-packer-templates
+	url = git@github.com:joukou/joukou-packer-templates.git
+[submodule "node-riak-admin"]
+	path = node-riak-admin
+	url = git@github.com:joukou/node-riak-admin.git
+[submodule "otp"]
+	path = otp
+	url = git@github.com:joukou/otp.git
+[submodule "restify-cors-middleware"]
+	path = restify-cors-middleware
+	url = git@github.com:joukou/restify-cors-middleware.git
+[submodule "the-graph"]
+	path = the-graph
+	url = git@github.com:joukou/the-graph.git
